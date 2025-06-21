@@ -36,3 +36,18 @@ Function Node: Classify Status
 Function Node: Generate HTML Report
     ↓
 Email Node: Send Report
+
+
+## Scnreeshot
+
+
+![Screenshot 2025-06-22 000247](https://github.com/user-attachments/assets/f7688f09-7f0e-413b-bdf3-5a1ea5a6c488)
+
+
+
+![OP 1](https://github.com/user-attachments/assets/89ddfe1b-b344-49a2-961b-1ca354d86d44)
+
+
+
+![op2](https://github.com/user-attachments/assets/4111b12a-3dd3-4400-9e76-7e6f2bd80dcb)
+
